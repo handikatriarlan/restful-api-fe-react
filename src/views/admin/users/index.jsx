@@ -51,7 +51,7 @@ export default function UsersIndex() {
                   <tr>
                     <th scope="col">Full Name</th>
                     <th scope="col">Email Address</th>
-                    <th scope="col" style={{ width: "17%" }}>
+                    <th scope="col" style={{ width: "20%" }}>
                       Actions
                     </th>
                   </tr>
